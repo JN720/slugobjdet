@@ -1,4 +1,7 @@
 torch
 ultralytics
 roboflow
-onnx
+onnxruntime
+trimesh 
+pyrender 
+pillow
